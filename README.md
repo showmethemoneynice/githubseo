@@ -16,3 +16,9 @@ Combines classical Xuan Kong theory with solar/ventilation science.
 - Free browser-based developer tools that respect privacy
 - SEO that actually turns into traffic and revenue
 - Learning in public, one small ship at a time
+
+<!-- bp:fontgenfree -->
+## FontGenFree
+Free online font generator - turn plain text into 90+ fancy Unicode styles. Copy & paste anywhere.
+👉 [fontgenfree.com](https://www.fontgenfree.com)
+<!-- /bp:fontgenfree -->
