@@ -22,3 +22,9 @@ Combines classical Xuan Kong theory with solar/ventilation science.
 Free online font generator - turn plain text into 90+ fancy Unicode styles. Copy & paste anywhere.
 👉 [fontgenfree.com](https://www.fontgenfree.com)
 <!-- /bp:fontgenfree -->
+
+<!-- bp:javafmt -->
+## JavaFmt
+Free online Java code formatter - paste messy code, get clean indented output instantly. Runs entirely in your browser.
+👉 [javafmt.com](https://www.javafmt.com)
+<!-- /bp:javafmt -->
