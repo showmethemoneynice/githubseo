@@ -28,3 +28,8 @@ Free online font generator - turn plain text into 90+ fancy Unicode styles. Copy
 Free online Java code formatter - paste messy code, get clean indented output instantly. Runs entirely in your browser.
 👉 [javafmt.com](https://www.javafmt.com)
 <!-- /bp:javafmt -->
+
+## My Free Tools
+- [AI Signature Generator](https://www.aisignaturetool.com) — Free AI signature generator: draw or type, download a clean transparent PNG
+- [Pro Rata Calculator](https://www.proratatool.com) — Free pro rata calculator: split any total by share proportion
+- [Quote Builder](https://www.quotebuilderonline.com) — Free online quote builder: line items, tax, discounts, professional quote card
