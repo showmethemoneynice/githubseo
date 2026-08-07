@@ -1,35 +1,24 @@
-# Hi 👋
+# Free Online Tools Collection
 
-I'm a solo developer building small, useful web tools and writing about taking products overseas with SEO (出海).
+A curated list of free online tools for developers, designers, and everyday use.
 
-## 🛠 Tools I Use Daily
+## Developer Tools
 
-- [DevToolCore](https://devtoolcore.com?utm_source=github_profile) — my go-to for quick JSON formatting and regex testing without leaving the browser. It bundles 19 utilities (JSON formatter with collapsible tree view, live regex tester, Base64 / URL / HTML encoders, JWT decoder, UUID generator, SEO meta-tag analyzer, and more) that run entirely client-side, so nothing you paste ever touches a server. Free, no signup, no ads.
+- [DevToolCore](https://devtoolcore.com) — Free online developer tools: JSON formatter, regex tester, meta tag analyzer, and 16+ more utilities
+- [Java Formatter](https://javafmt.com) — Free online Java code formatter and beautifier
+- [Font Generator](https://fontgenfree.com) — Free online font generator: Unicode text styles, fancy fonts, and symbol converters
 
-## 🔮 CyberFengShui
-Free Flying Star Feng Shui Calculator — analyze your home's energy map in 30 seconds.
-Combines classical Xuan Kong theory with solar/ventilation science.
-👉 [cyberfengshui.com](https://www.cyberfengshui.com)
+## Productivity & Business
 
-## What I'm working on
+- [Pro Rata Calculator](https://proratatool.com) — Free online pro rata calculator: split bills, rent, salaries by share
+- [Quote Builder](https://quotebuilderonline.com) — Free online quote builder: generate professional quote cards with line items, tax, and discounts
+- [AI Signature Generator](https://aisignaturetool.com) — Free online AI signature generator: hand-drawn style signatures, download as PNG
 
-- Free browser-based developer tools that respect privacy
-- SEO that actually turns into traffic and revenue
-- Learning in public, one small ship at a time
+## Lifestyle & Wellness
 
-<!-- bp:fontgenfree -->
-## FontGenFree
-Free online font generator - turn plain text into 90+ fancy Unicode styles. Copy & paste anywhere.
-👉 [fontgenfree.com](https://www.fontgenfree.com)
-<!-- /bp:fontgenfree -->
+- [CyberFengShui](https://cyberfengshui.com) — Flying Star Feng Shui calculator with NOAA sunlight analysis and AI interpretation
+- [KarmicCalc](https://karmiccalc.com) — Free online karmic number calculator: karmic tail, life path, angel numbers, and birthday numerology
 
-<!-- bp:javafmt -->
-## JavaFmt
-Free online Java code formatter - paste messy code, get clean indented output instantly. Runs entirely in your browser.
-👉 [javafmt.com](https://www.javafmt.com)
-<!-- /bp:javafmt -->
+---
 
-## My Free Tools
-- [AI Signature Generator](https://www.aisignaturetool.com) — Free AI signature generator: draw or type, download a clean transparent PNG
-- [Pro Rata Calculator](https://www.proratatool.com) — Free pro rata calculator: split any total by share proportion
-- [Quote Builder](https://www.quotebuilderonline.com) — Free online quote builder: line items, tax, discounts, professional quote card
+*All tools are free to use. No registration required.*
