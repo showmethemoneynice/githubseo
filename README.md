@@ -27,3 +27,16 @@ A curated list of free online tools for developers, designers, and everyday use.
 ---
 
 *All tools are free to use. No registration required.*
+
+## My Free Tools
+- [CyberFengShui](https://www.cyberfengshui.com) — Fly Star Calculator for Period 9 — Feng Shui energy analysis powered by NOAA data
+- [FontGenerator](https://www.fontgenfree.com) — Free Unicode font style converter
+- [JavaFormatter](https://www.javafmt.com) — Free online Java code formatter
+- [AI Signature Generator](https://www.aisignaturetool.com) — Free AI signature generator: draw or type, download a clean transparent PNG
+- [Pro Rata Calculator](https://www.proratatool.com) — Free pro rata calculator: split any total by share proportion
+- [Quote Builder](https://www.quotebuilderonline.com) — Free online quote builder: line items, tax, discounts, professional quote card
+- [KarmicCalc](https://www.karmiccalc.com) — Free karmic tail and numerology calculator: discover your soul's lesson
+- [Nick Creator](https://www.nickcreator.com) — Free online nickname generator: gaming, social media, fantasy names
+- [InvMakr](https://www.invmakr.com) — Free online invoice generator: create and download professional invoices
+- [SudokuPeaks](https://sudokupeaks.com) — Free daily Sudoku puzzle: one grid for the whole world, resets at midnight UTC
+- [Four in a Row Daily](https://fourinarowdaily.com) — Free four in a row with a daily endgame puzzle
