@@ -40,3 +40,4 @@ A curated list of free online tools for developers, designers, and everyday use.
 - [InvMakr](https://www.invmakr.com) — Free online invoice generator: create and download professional invoices
 - [SudokuPeaks](https://sudokupeaks.com) — Free daily Sudoku puzzle: one grid for the whole world, resets at midnight UTC
 - [Four in a Row Daily](https://fourinarowdaily.com) — Free four in a row with a daily endgame puzzle
+- [Word Search Cove](https://wordsearchcove.com) — Free daily word search puzzle: one themed grid for the whole world, in English and French
